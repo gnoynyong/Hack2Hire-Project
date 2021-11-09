@@ -1,0 +1,10 @@
+.home{
+    display: flex;
+    justify-content: space-around;
+}
+
+.logoutbtn{
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
